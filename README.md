@@ -1,9 +1,9 @@
 # Welcome to Hello-World
+![hello-there-hello-world](https://github.com/13kparkin/Hello-World/assets/105998439/55006e6b-43ff-436d-8cc6-5e7e3c358348)
 ### This repository serves as a learning tool for new contributors to open-source.
 # Getting Started
 * Fork this repository on GitHub by clicking the <kbd><b>Fork</b></kbd> 
 button in the top right of this page. 
-
 * Clone your forked repo to your local machine.  
 `git clone https://github.com/YOUR-USERNAME/Hello-World.git`  
 Replace `YOUR-USERNAME` above with your GitHub username. 
